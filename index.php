@@ -14,4 +14,5 @@ if (isset($_POST["Hi"])) {
         exit;
     }
 }
+$a = 4;
 ?>
